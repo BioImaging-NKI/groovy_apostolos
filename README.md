@@ -4,7 +4,7 @@ A few groovy scripts to overlay and measure microscopy data in [QuPath](https://
 ## Software
 Tested on:
 * [QuPath v0.4.3](https://github.com/qupath/qupath/releases/tag/v0.4.3)
-* [qupath-extension-warpy 0.2.4](https://github.com/BIOP/qupath-extension-warpy/releases/tag/0.2.4)
+* [qupath-extension-warpy 0.2.4](https://github.com/BIOP/qupath-extension-warpy/releases/tag/0.2.4) (actually without warpy itself, since we only use rigid transforms)
 
 ## Setup
 * Install QuPath, this should be self explainatory

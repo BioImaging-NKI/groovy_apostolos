@@ -9,6 +9,7 @@ Tested on:
 ## Setup
 * Install QuPath, this should be self explainatory
 * Download the warpy extension (see link above). Extract the .zip file, and drag-n-drop the .jar files on the open QuPath window
+* Restart QuPath
 
 ## Manual
 * Create a project with the images that need to be overlayed

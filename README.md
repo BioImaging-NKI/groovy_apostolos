@@ -12,8 +12,8 @@ Tested on:
 * Restart QuPath
 
 ## Manual
-* Create a project with the images that need to be overlayed
-* Add the required images by drag-n-drop
+* Create new a project in an empty folder
+* Add the required images by drag-n-drop and save the project
 * Open one of the two images
 * Go to Analyze > Interactive image combiner warpy
 * Click "Choose images from project" and choose the other image

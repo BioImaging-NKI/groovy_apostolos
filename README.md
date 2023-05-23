@@ -30,7 +30,5 @@ Tested on:
 * Optional: set colors with script or by hand
 
 
-## Few helpfull links:
-* https://c4science.ch/w/warpy/ (general manual)
-* https://c4science.ch/w/warpy/imagecombinerwarpy/ (only rigid and affine)
-* https://c4science.ch/w/warpy/warpy-extension/ (elastix via fiji)
+## Beyond rigid and affine transformation:
+* https://imagej.net/plugins/bdv/warpy/warpy
